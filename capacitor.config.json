@@ -1,0 +1,8 @@
+{
+  "appId": "com.sushify.hecker.sambhav",
+  "appName": "Sushify",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
